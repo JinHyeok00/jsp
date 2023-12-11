@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;my-side-project/WebContent/templates/Join.jsp&apos; to &apos;join.jsp&apos;" description="Rename resource &apos;Join.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/templates/Join.jsp" name="join.jsp" stamp="1682243351780" updateReferences="true"/>
+</session>

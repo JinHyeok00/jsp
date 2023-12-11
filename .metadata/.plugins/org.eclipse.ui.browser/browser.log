@@ -1,0 +1,98 @@
+
+4월 13, 2023 17:29:48.368 NEW SESSION
+4월 13, 2023 17:29:48.368 [2484:14768:0413/172948.366:ERROR:device_event_log_impl.cc(222)] [17:29:48.366] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 17:29:48.368 [2484:14768:0413/172948.368:ERROR:device_event_log_impl.cc(222)] [17:29:48.368] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 17:29:48.690 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2023 17:29:57.954 [2484:14768:0413/172957.953:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 13, 2023 17:29:57.954 [2484:14768:0413/172957.953:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 13, 2023 17:29:57.954 [2484:14768:0413/172957.953:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 13, 2023 17:31:11.935 [2484:14768:0413/173111.935:ERROR:CONSOLE(1)] "Request Network.enable failed. {"code":-32601,"message":"'Network.enable' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.936 [2484:14768:0413/173111.935:ERROR:CONSOLE(1)] "Request Network.setAttachDebugStack failed. {"code":-32601,"message":"'Network.setAttachDebugStack' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.936 [2484:14768:0413/173111.936:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedMedia failed. {"code":-32601,"message":"'Emulation.setEmulatedMedia' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.936 [2484:14768:0413/173111.936:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedVisionDeficiency failed. {"code":-32601,"message":"'Emulation.setEmulatedVisionDeficiency' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.936 [2484:14768:0413/173111.936:ERROR:CONSOLE(1)] "Request Network.clearAcceptedEncodingsOverride failed. {"code":-32601,"message":"'Network.clearAcceptedEncodingsOverride' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.937 [2484:14768:0413/173111.936:ERROR:CONSOLE(1)] "Request Network.enable failed. {"code":-32601,"message":"'Network.enable' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.937 [2484:14768:0413/173111.936:ERROR:CONSOLE(1)] "Request Network.setAttachDebugStack failed. {"code":-32601,"message":"'Network.setAttachDebugStack' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.937 [2484:14768:0413/173111.937:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedMedia failed. {"code":-32601,"message":"'Emulation.setEmulatedMedia' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.938 [2484:14768:0413/173111.937:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedVisionDeficiency failed. {"code":-32601,"message":"'Emulation.setEmulatedVisionDeficiency' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:31:11.938 [2484:14768:0413/173111.938:ERROR:CONSOLE(1)] "Request Network.clearAcceptedEncodingsOverride failed. {"code":-32601,"message":"'Network.clearAcceptedEncodingsOverride' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:33:35.443 [2484:7548:0413/173335.443:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+4월 13, 2023 17:33:37.91 [2484:14768:0413/173337.090:ERROR:device_event_log_impl.cc(222)] [17:33:37.090] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+4월 13, 2023 17:34:15.21 [2484:14768:0413/173415.021:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 13, 2023 17:34:15.22 [2484:14768:0413/173415.021:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 13, 2023 17:34:46.111 [2484:14768:0413/173446.110:ERROR:CONSOLE(1)] "Request Network.enable failed. {"code":-32601,"message":"'Network.enable' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.111 [2484:14768:0413/173446.110:ERROR:CONSOLE(1)] "Request Network.setAttachDebugStack failed. {"code":-32601,"message":"'Network.setAttachDebugStack' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.111 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedMedia failed. {"code":-32601,"message":"'Emulation.setEmulatedMedia' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.111 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedVisionDeficiency failed. {"code":-32601,"message":"'Emulation.setEmulatedVisionDeficiency' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.112 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Network.clearAcceptedEncodingsOverride failed. {"code":-32601,"message":"'Network.clearAcceptedEncodingsOverride' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.112 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Network.enable failed. {"code":-32601,"message":"'Network.enable' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.112 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Network.setAttachDebugStack failed. {"code":-32601,"message":"'Network.setAttachDebugStack' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.112 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedMedia failed. {"code":-32601,"message":"'Emulation.setEmulatedMedia' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.112 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedVisionDeficiency failed. {"code":-32601,"message":"'Emulation.setEmulatedVisionDeficiency' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 17:34:46.112 [2484:14768:0413/173446.111:ERROR:CONSOLE(1)] "Request Network.clearAcceptedEncodingsOverride failed. {"code":-32601,"message":"'Network.clearAcceptedEncodingsOverride' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 13, 2023 18:05:09.838 [2484:14768:0413/180509.838:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 13, 2023 18:05:09.839 [2484:14768:0413/180509.838:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+4월 13, 2023 23:56:17.394 NEW SESSION
+4월 13, 2023 23:56:17.394 [8896:472:0413/235617.392:ERROR:device_event_log_impl.cc(222)] [23:56:17.392] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 23:56:17.395 [8896:472:0413/235617.393:ERROR:device_event_log_impl.cc(222)] [23:56:17.393] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 23:56:17.520 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2023 23:56:48.764 [12868:11600:0413/235648.764:ERROR:device_event_log_impl.cc(222)] [23:56:48.763] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 23:56:48.766 [12868:11600:0413/235648.765:ERROR:device_event_log_impl.cc(222)] [23:56:48.765] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 23:56:48.853 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2023 23:57:12.634 [1140:11208:0413/235712.634:ERROR:device_event_log_impl.cc(222)] [23:57:12.635] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 23:57:12.636 [1140:11208:0413/235712.635:ERROR:device_event_log_impl.cc(222)] [23:57:12.636] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 13, 2023 23:57:12.769 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 14, 2023 13:34:33.495 NEW SESSION
+4월 14, 2023 13:34:33.495 [1916:15292:0414/133433.493:ERROR:device_event_log_impl.cc(222)] [13:34:33.494] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 14, 2023 13:34:33.496 [1916:15292:0414/133433.496:ERROR:device_event_log_impl.cc(222)] [13:34:33.496] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 14, 2023 13:34:33.662 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 14, 2023 13:35:10.108 [1916:15292:0414/133510.107:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 14, 2023 13:35:10.108 [1916:15292:0414/133510.107:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 14, 2023 13:35:26.806 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Network.enable failed. {"code":-32601,"message":"'Network.enable' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.807 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Network.setAttachDebugStack failed. {"code":-32601,"message":"'Network.setAttachDebugStack' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.807 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Network.enable failed. {"code":-32601,"message":"'Network.enable' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.807 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedMedia failed. {"code":-32601,"message":"'Emulation.setEmulatedMedia' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.807 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedVisionDeficiency failed. {"code":-32601,"message":"'Emulation.setEmulatedVisionDeficiency' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.807 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Network.clearAcceptedEncodingsOverride failed. {"code":-32601,"message":"'Network.clearAcceptedEncodingsOverride' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.808 [1916:15292:0414/133526.806:ERROR:CONSOLE(1)] "Request Network.setAttachDebugStack failed. {"code":-32601,"message":"'Network.setAttachDebugStack' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.808 [1916:15292:0414/133526.807:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedMedia failed. {"code":-32601,"message":"'Emulation.setEmulatedMedia' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.808 [1916:15292:0414/133526.807:ERROR:CONSOLE(1)] "Request Emulation.setEmulatedVisionDeficiency failed. {"code":-32601,"message":"'Emulation.setEmulatedVisionDeficiency' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:35:26.808 [1916:15292:0414/133526.807:ERROR:CONSOLE(1)] "Request Network.clearAcceptedEncodingsOverride failed. {"code":-32601,"message":"'Network.clearAcceptedEncodingsOverride' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 14, 2023 13:49:21.497 [1916:15292:0414/134921.497:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 14, 2023 13:49:21.498 [1916:15292:0414/134921.497:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+4월 20, 2023 16:19:08.277 NEW SESSION
+4월 20, 2023 16:19:08.277 [6724:14268:0420/161908.275:ERROR:device_event_log_impl.cc(222)] [16:19:08.275] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 20, 2023 16:19:08.277 [6724:14268:0420/161908.277:ERROR:device_event_log_impl.cc(222)] [16:19:08.277] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 20, 2023 16:19:08.349 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 20, 2023 16:19:46.609 [13888:2520:0420/161946.608:ERROR:device_event_log_impl.cc(222)] [16:19:46.609] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 20, 2023 16:19:46.611 [13888:2520:0420/161946.611:ERROR:device_event_log_impl.cc(222)] [16:19:46.611] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 20, 2023 16:19:46.662 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 20, 2023 19:16:37.292 NEW SESSION
+4월 20, 2023 19:16:37.292 [8236:10488:0420/191637.291:ERROR:device_event_log_impl.cc(222)] [19:16:37.291] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 20, 2023 19:16:37.292 [8236:10488:0420/191637.292:ERROR:device_event_log_impl.cc(222)] [19:16:37.292] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 20, 2023 19:16:37.353 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 23, 2023 16:01:16.175 NEW SESSION
+4월 23, 2023 16:01:16.175 [13512:8952:0423/160116.174:ERROR:device_event_log_impl.cc(222)] [16:01:16.174] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2023 16:01:16.176 [13512:8952:0423/160116.176:ERROR:device_event_log_impl.cc(222)] [16:01:16.176] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2023 16:01:16.527 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 23, 2023 18:46:23.579 [672:12068:0423/184623.578:ERROR:device_event_log_impl.cc(222)] [18:46:23.578] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2023 18:46:23.582 [672:12068:0423/184623.582:ERROR:device_event_log_impl.cc(222)] [18:46:23.582] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2023 18:46:23.780 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 23, 2023 20:12:03.312 NEW SESSION
+4월 23, 2023 20:12:03.312 [8108:12308:0423/201203.311:ERROR:device_event_log_impl.cc(222)] [20:12:03.311] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2023 20:12:03.314 [8108:12308:0423/201203.313:ERROR:device_event_log_impl.cc(222)] [20:12:03.313] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2023 20:12:03.379 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 24, 2023 17:52:09.533 NEW SESSION
+4월 24, 2023 17:52:09.533 [1168:9292:0424/175209.530:ERROR:device_event_log_impl.cc(222)] [17:52:09.531] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 24, 2023 17:52:09.534 [1168:9292:0424/175209.532:ERROR:device_event_log_impl.cc(222)] [17:52:09.532] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 24, 2023 17:52:10.135 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2023 17:54:00.747 [9716:2684:0424/175400.747:ERROR:device_event_log_impl.cc(222)] [17:54:00.748] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 24, 2023 17:54:00.749 [9716:2684:0424/175400.748:ERROR:device_event_log_impl.cc(222)] [17:54:00.749] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 24, 2023 17:54:00.836 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

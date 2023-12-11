@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\Users\손진혁\Desktop\web\ItPocket01\workspace"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\손진혁\Documents\카카오톡 받은 파일\jsp_day12\app.zip"/>
+			<item value="C:\Users\손진혁\Documents\카카오톡 받은 파일\jsp_day06\side-project.zip"/>
+			<item value="C:\Users\손진혁\Documents\카카오톡 받은 파일\app.zip"/>
+			<item value="C:\Users\손진혁\Documents\카카오톡 받은 파일\jsp_day09\app.zip"/>
+			<item value="C:\Users\손진혁\Documents\카카오톡 받은 파일\jsp_day06\app.zip"/>
+			<item value="C:\Users\손진혁\Documents\카카오톡 받은 파일\jsp_day05\day05.zip"/>
+			<item value="C:\Users\손진혁\Desktop\web\jsp\resource\side-project.zip"/>
+			<item value="C:\Users\손진혁\Desktop\web\jsp\resource\app.zip"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>
